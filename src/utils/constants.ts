@@ -1,0 +1,21 @@
+export const folders = [
+    "bindings",
+    "controller",
+    "core",
+    "view",
+    "view/screen",
+    "view/widget",
+    "core/class",
+    "core/constant",
+    "core/functions",
+    "core/localization",
+    "core/middleware",
+    "core/services",
+    "core/shared",
+    "data",
+    "data/datasource",
+    "data/datasource/remote",
+    "data/datasource/static",
+    "data/model",
+  ];
+  
